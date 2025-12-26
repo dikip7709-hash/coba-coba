@@ -1,0 +1,1102 @@
+.form-service {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  background-color: #222831;
+}
+
+.form-service .navbar-container {
+  display: flex;
+  flex-direction: column;
+  height: 96px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #00000000;
+  backdrop-filter: blur(5.0px) brightness(100.0%) saturate(84.3%);
+  -webkit-backdrop-filter: blur(5.0px) brightness(100.0%) saturate(84.3%);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.4), inset 1px 0 0 rgba(
+      255,
+      255,
+      255,
+      0.32
+    ), inset 0 -1px 3px rgba(0, 0, 0, 0.05), inset -1px 0 3px rgba(
+      0,
+      0,
+      0,
+      0.04
+    );
+}
+
+.form-service .frame {
+  display: flex;
+  height: 54px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 50px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.form-service .div {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 50px;
+  box-shadow: 4px 4px 20px #0000001a;
+}
+
+.form-service .artboard {
+  position: relative;
+  width: 25px;
+  height: 25px;
+  aspect-ratio: 1;
+}
+
+.form-service .place-plate {
+  width: fit-content;
+  font-weight: 600;
+  color: transparent;
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+  font-family: "Onest", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .text-wrapper {
+  color: #ffffff;
+}
+
+.form-service .span {
+  color: #00adb5;
+}
+
+.form-service .frame-2 {
+  display: flex;
+  width: 532px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  position: relative;
+}
+
+.form-service .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.form-service .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Onest", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .btn {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 16px 24px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+  border-radius: 50px;
+}
+
+.form-service .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Onest", Helvetica;
+  font-weight: 600;
+  color: #00adb5;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .frame-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 100px 50px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.form-service .frame-3 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 100px 100px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.form-service .frame-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 21px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.form-service .frame-5 {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 15px;
+  padding: 10px 24px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #ffffff26;
+  border-radius: 50px;
+  border: 1px solid;
+}
+
+.form-service .frame-6 {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.form-service .star {
+  position: relative;
+  width: 23.78px;
+  height: 22.61px;
+  aspect-ratio: 1;
+}
+
+.form-service .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Onest", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .group {
+  position: relative;
+  width: 556px;
+  height: 170px;
+}
+
+.form-service .frame-7 {
+  display: flex;
+  flex-direction: column;
+  width: 556px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  left: calc(50.00% - 278px);
+}
+
+.form-service .let-get-started {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Onest", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .text-wrapper-5 {
+  color: #00ced7;
+}
+
+.form-service .p {
+  position: relative;
+  width: 512px;
+  font-family: "Onest", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .frame-8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 29px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.form-service .frame-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 18px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.form-service .frame-10 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.form-service .frame-11 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 7px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.form-service .text-wrapper-6 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .rectangle {
+  height: 63px;
+  border: 1px solid;
+  border-color: #ffffff;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #f3f3f30d;
+  border-radius: 5px;
+}
+
+.form-service .frame-12 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 40px 40px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.form-service .frame-13 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 7px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.form-service .rectangle-2 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 63px;
+  background-color: #f3f3f30d;
+  border-radius: 5px;
+}
+
+.form-service .text-wrapper-7 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .frame-14 {
+  display: flex;
+  flex-direction: column;
+  height: 209px;
+  align-items: flex-start;
+  gap: 7px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.form-service .rectangle-3 {
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #f3f3f30d;
+  border-radius: 5px;
+}
+
+.form-service .frame-15 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.form-service .frame-16 {
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 30px;
+  padding: 0px 20px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.form-service .frame-17 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.form-service .frequently-asked {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Onest", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .text-wrapper-8 {
+  color: #00a8ae;
+}
+
+.form-service .text-wrapper-9 {
+  position: relative;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .frame-18 {
+  display: flex;
+  flex-direction: column;
+  max-width: 640px;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.form-service .frame-19 {
+  display: flex;
+  width: 594px;
+  align-items: flex-start;
+  gap: 42px;
+  padding: 30px 50px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #bffcff1a;
+  border-radius: 20px;
+  border: 1px solid;
+  border-color: #00a8ae1a;
+}
+
+.form-service .frame-20 {
+  display: flex;
+  flex-direction: column;
+  width: 412px;
+  height: 31px;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  overflow: hidden;
+}
+
+.form-service .text-wrapper-10 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Onest", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .text-wrapper-11 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .vector-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #00a8ae;
+  border-radius: 50px;
+}
+
+.form-service .img {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  aspect-ratio: 1;
+}
+
+.form-service .frame-21 {
+  display: flex;
+  flex-direction: column;
+  width: 412px;
+  height: 62px;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  overflow: hidden;
+}
+
+.form-service .img-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #00a8ae;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.form-service .vector {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  transform: rotate(-90deg);
+  aspect-ratio: 1;
+}
+
+.form-service .frame-22 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 42px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.form-service .frame-23 {
+  display: flex;
+  flex-direction: column;
+  height: 717px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 0px 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.form-service .frame-24 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  border-radius: 50px;
+  background: radial-gradient(
+    50% 50% at 67% 49%,
+    rgba(59, 255, 238, 0) 0%,
+    rgba(48, 240, 227, 0) 35%,
+    rgba(36, 223, 216, 0.17) 63%,
+    rgba(4, 220, 230, 1) 100%
+  );
+}
+
+.form-service .frame-25 {
+  display: flex;
+  flex-direction: column;
+  width: 898px;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.form-service .frame-26 {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 15px;
+  padding: 10px 24px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #ffffff0d;
+  border-radius: 50px;
+  border: 1px solid;
+  border-color: #ffffff1a;
+}
+
+.form-service .frame-27 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 35px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.form-service .frame-28 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 17px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.form-service .ready-to-transform {
+  position: relative;
+  width: 849px;
+  margin-top: -1.00px;
+  font-family: "Onest", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 72px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .text-wrapper-12 {
+  position: relative;
+  width: 898px;
+  font-family: "Onest", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .frame-29 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 30px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.form-service .button-white {
+  margin-top: -1.00px;
+  color: #00adb5;
+  position: relative;
+  width: fit-content;
+  font-family: "Onest", Helvetica;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .button {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 12px 24px;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 50px;
+  background: linear-gradient(
+    265deg,
+    rgba(3, 215, 225, 1) 0%,
+    rgba(0, 173, 181, 1) 100%
+  );
+}
+
+.form-service .button-2 {
+  color: #ffffff;
+  position: relative;
+  width: fit-content;
+  font-family: "Onest", Helvetica;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .frame-30 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 8px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #ffffff94;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.form-service .vector-2 {
+  position: relative;
+  width: 12.8px;
+  height: 9.6px;
+}
+
+.form-service .frame-31 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 100px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+}
+
+.form-service .frame-32 {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  align-items: center;
+  justify-content: center;
+  gap: 52px;
+  position: relative;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.form-service .frame-33 {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.form-service .frame-34 {
+  display: flex;
+  max-width: 500px;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.form-service .frame-35 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.form-service .PLACEPLATE {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Onest", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .text-wrapper-13 {
+  color: #000000;
+}
+
+.form-service .text-wrapper-14 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Onest", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .frame-36 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.form-service .frame-37 {
+  display: flex;
+  flex-direction: column;
+  width: 121px;
+  align-items: flex-start;
+  gap: 30px;
+  position: relative;
+}
+
+.form-service .text-wrapper-15 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Onest", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .frame-38 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.form-service .text-wrapper-16 {
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  position: relative;
+  font-family: "Onest", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .text-wrapper-17 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Onest", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .frame-39 {
+  display: flex;
+  flex-direction: column;
+  width: 102px;
+  align-items: flex-start;
+  gap: 30px;
+  position: relative;
+}
+
+.form-service .frame-40 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.form-service .text-wrapper-18 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Onest", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .vector-3 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1px;
+  object-fit: cover;
+}
+
+.form-service .frame-41 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.form-service .frame-42 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.form-service .text-wrapper-19 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Onest", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.form-service .frame-43 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 50px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.form-service .frame-44 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #0000000d;
+  border-radius: 50px;
+}
+
+.form-service .text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.form-service .text-2 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  aspect-ratio: 1;
+  background-image: url(./img/path-5323.svg);
+  background-size: 100% 100%;
+}
+
+.form-service .group-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 15px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #0000000d;
+  border-radius: 50px;
+}
+
+.form-service .frame-45 {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 17px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #0000000d;
+  border-radius: 50px;
+}
+
+.form-service .frame-46 {
+  position: relative;
+  width: 14px;
+  height: 28px;
+  aspect-ratio: 0.52;
+}
+
+.form-service .group-2 {
+  position: relative;
+  width: 14px;
+  height: 28px;
+  background-image: url(./img/vector-7.svg);
+  background-size: 100% 100%;
+}
+
+.form-service .layer-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 15px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #0000000d;
+  border-radius: 50px;
+}
+
+.form-service .layer {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.form-service .vector-4 {
+  position: relative;
+  width: 20px;
+  height: 22px;
+  aspect-ratio: 0.89;
+}
+
+.form-service .frame-47 {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 13px 15px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #0000000d;
+  border-radius: 50px;
+}
+
+.form-service .group-3 {
+  position: relative;
+  width: 20px;
+  height: 24.62px;
+  background-image: url(./img/vector-9.svg);
+  background-size: 100% 100%;
+}
